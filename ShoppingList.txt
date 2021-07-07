@@ -6,3 +6,4 @@ Cherries
 Orange
 Carrots
 Mango
+fruits
